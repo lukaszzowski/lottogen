@@ -1,0 +1,2 @@
+# lottogen
+Lotto numbers generator
